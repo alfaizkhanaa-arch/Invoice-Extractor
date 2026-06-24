@@ -1,0 +1,15 @@
+{
+  "invoice_number": "INV-2026-001",
+  "invoice_date": "24-06-2026",
+  "due_date": "30-06-2026",
+  "billed_by": "ABC Technologies Pvt Ltd",
+  "billed_to": "XYZ Retail Store",
+  "line_items": null,
+  "subtotal": "n25,000",
+  "discount": null,
+  "tax_or_gst": null,
+  "total_amount": "n25,000",
+  "currency": "INR",
+  "payment_method": "UPI",
+  "notes": null
+}
